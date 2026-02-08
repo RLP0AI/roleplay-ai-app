@@ -1,0 +1,29 @@
+{
+  "name": "roleplay-ai-frontend",
+  "version": "1.0.0",
+  "description": "Roleplay AI Frontend",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^14.0.4",
+    "firebase": "^10.7.1",
+    "axios": "^1.6.2",
+    "lucide-react": "^0.300.0",
+    "tailwindcss": "^3.4.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.45",
+    "@types/node": "^20.10.5",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "^14.0.4"
+  }
+}
